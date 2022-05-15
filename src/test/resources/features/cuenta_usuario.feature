@@ -11,9 +11,9 @@ Característica: El usuario requiere un portal de gestion de los usuarios y sus 
       | address      | Direccion               |
       | city         | Virginia                |
       | state        | Virginia                |
-      | pin          | 123456                  |
+      | pin          | 123457                  |
       | mobileNumber | 3113123125              |
-      | email        | test-test0111@correo.com |
+      | email        | test-test01111@correo.com |
       | password     | Contra123               |
     Entonces el administrador ve la confirmacion de creacion de la cuenta
 
@@ -28,8 +28,8 @@ Característica: El usuario requiere un portal de gestion de los usuarios y sus 
       | city         | Virginia                |
       | state        | Virginia                |
       | pin          | 123456                  |
-      | mobileNumber | 3113123125              |
-      | email        | test-test022@correo.com |
+      | mobileNumber | 3113123126              |
+      | email        | test-test0222@correo.com |
       | password     | Contra123               |
     Y realiza la creacion de una cuenta para el cliente creado
       | accountType    | Current |
@@ -47,8 +47,8 @@ Característica: El usuario requiere un portal de gestion de los usuarios y sus 
       | city         | Virginia                |
       | state        | Virginia                |
       | pin          | 123456                  |
-      | mobileNumber | 3113123125              |
-      | email        | test-test033@correo.com |
+      | mobileNumber | 3113123126              |
+      | email        | test-test0333@correo.com |
       | password     | Contra123               |
     Y realiza la creacion de una cuenta para el cliente creado
       | accountType    | Current |
